@@ -25,11 +25,11 @@ public class Users {
         @Override
         public String toString() {
             return "Address{" +
-                    "street='" + street + '\'' +
-                    ", suite='" + suite + '\'' +
-                    ", city='" + city + '\'' +
-                    ", zipcode='" + zipcode + '\'' +
-                    ", geo=" + geo +
+                    "\nstreet='" + street + '\'' +
+                    "\nsuite='" + suite + '\'' +
+                    "\ncity='" + city + '\'' +
+                    "\nzipcode='" + zipcode + '\'' +
+                    "\ngeo=" + geo +
                     '}';
         }
     }

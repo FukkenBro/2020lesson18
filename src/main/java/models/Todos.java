@@ -14,9 +14,9 @@ public class Todos {
     public String toString() {
         return "Todos{" +
                 "userId=" + userId +
-                ", id=" + id +
-                ", title='" + title + '\'' +
-                ", completed=" + completed +
+                "\nid=" + id +
+                "\ntitle='" + title + '\'' +
+                "\ncompleted=" + completed +
                 '}';
     }
 }

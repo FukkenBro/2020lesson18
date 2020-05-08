@@ -15,10 +15,10 @@ public class Comments {
     public String toString() {
         return "Comments{" +
                 "postId=" + postId +
-                ", id=" + id +
-                ", name='" + name + '\'' +
-                ", email='" + email + '\'' +
-                ", body='" + body + '\'' +
+                "\nid=" + id +
+                "\nname='" + name + '\'' +
+                "\nemail='" + email + '\'' +
+                "\nbody='" + body + '\'' +
                 '}';
     }
 }

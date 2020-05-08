@@ -15,10 +15,10 @@ public class Photos {
     public String toString() {
         return "Photos{" +
                 "albumId=" + albumId +
-                ", id=" + id +
-                ", title='" + title + '\'' +
-                ", url='" + url + '\'' +
-                ", thumbnailUrl='" + thumbnailUrl + '\'' +
+                "\nid=" + id +
+                "\ntitle='" + title + '\'' +
+                "\nurl='" + url + '\'' +
+                "\nthumbnailUrl='" + thumbnailUrl + '\'' +
                 '}';
     }
 }

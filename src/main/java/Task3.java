@@ -36,16 +36,16 @@ public class Task3 {
         System.out.println("Getting Users . . . ");
         List<Users> users = apiService.getUsers();
 
-        System.out.println(albums.get(2));
-        System.out.println("===============================================");
-        System.out.println(comments.get(4));
-        System.out.println("===============================================");
-        System.out.println(photos.get(6));
-        System.out.println("===============================================");
-        System.out.println(posts.get(8));
-        System.out.println("===============================================");
-        System.out.println(todos.get(10));
-        System.out.println("===============================================");
-        System.out.println(users.get(5));
+        System.out.println(albums.get(1));
+        System.out.println("==============================================================================================");
+        System.out.println(comments.get(2));
+        System.out.println("==============================================================================================");
+        System.out.println(photos.get(3));
+        System.out.println("==============================================================================================");
+        System.out.println(posts.get(4));
+        System.out.println("==============================================================================================");
+        System.out.println(todos.get(5));
+        System.out.println("==============================================================================================");
+        System.out.println(users.get(6));
     }
 }
